@@ -48,6 +48,8 @@ if __name__ == "__main__":
     sliding_window(frame_size)
 
 ```
-## OUPUT
+## OUTPUT
+![image](https://github.com/arbasil05/2b_SLIDING_WINDOW_PROTOCOL/assets/144218037/ecaca571-cb5b-48f5-b302-07b09ba9d562)
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
